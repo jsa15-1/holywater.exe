@@ -1,0 +1,22 @@
+body {
+    background-color: #3f3939ef;
+}
+
+div {
+    font-family: 'Comic Sans MS', cursive
+}
+
+button {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #3f3939ef;
+    border: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #e9cdcdef;
+}
+
+div input{
+    background-color: #fafafaef;
+}
